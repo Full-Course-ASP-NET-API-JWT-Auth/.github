@@ -1,5 +1,5 @@
 ### Introduction
-Full Stack Angular and .NET Core Web API is a project that demonstrates how to implement role-based authentication and authorization in a .NET 8 web application using <b>JSON Web Tokens (JWT)</b>.<br/> This project combines an Angular front-end (Angular 17) with a .NET 8 back-end to provide a complete solution for secure web application development.
+Full Stack Angular and .NET Core Web API is a project that demonstrates how to implement role-based authentication and authorization in a .NET 8 web application using <b>JSON Web Tokens (JWT)</b>.<br/> This project combines an Angular front-end Angular with a .NET 8 back-end to provide a complete solution for secure web application development.
 
 ### Features
 <hr/>
@@ -23,6 +23,9 @@ Visual Studio Code or any other preferred code editor<br/>
 
 ### Video Tutorials
 [![.NET 8 and Angular 18 Full Course ](https://img.youtube.com/vi/onDirBCVed8/0.jpg)](https://www.youtube.com/watch?v=onDirBCVed8)
+
+### Github URL
+[https://github.com/pushpa-raj-dangi/Ng17Dotnet8RoleBaseAuthJWT](https://github.com/pushpa-raj-dangi/Ng17Dotnet8RoleBaseAuthJWT)
 
 ### Tutorial Time Line
 + 0:00 Introduction
