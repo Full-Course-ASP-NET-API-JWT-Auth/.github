@@ -1,5 +1,5 @@
 ### Introduction
-Ng17Dotnet8RoleBasedAuthJWT is a project that demonstrates how to implement role-based authentication and authorization in a .NET 8 web application using <b>JSON Web Tokens (JWT)</b>.<br/> This project combines an Angular front-end (Angular 17) with a .NET 8 back-end to provide a complete solution for secure web application development.
+Full Stack Angular and .NET Core Web API is a project that demonstrates how to implement role-based authentication and authorization in a .NET 8 web application using <b>JSON Web Tokens (JWT)</b>.<br/> This project combines an Angular front-end (Angular 17) with a .NET 8 back-end to provide a complete solution for secure web application development.
 
 ### Features
 <hr/>
